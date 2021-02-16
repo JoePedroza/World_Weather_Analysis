@@ -12,19 +12,19 @@ Python project using api's to analyze best weather patterns and cities with the 
 ## Results: 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/WeatherPy_vacation_map.png)
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/WeatherPy_vacation_map.png)
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig1.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig1.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig2.png) 
+![alt text](https://github.com/JoePedrozaWorld_Weather_Analysiss/blob/main/weather_data/Fig2.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig3.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig3.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig4.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig4.png) 
 
 ## Summary: 
  
