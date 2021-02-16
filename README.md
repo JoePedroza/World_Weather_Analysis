@@ -12,7 +12,7 @@ Python project using api's to analyze best weather patterns and cities with the 
 ## Results: 
 
 
-![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/WeatherPy_vacation_map.png)
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
 
 ![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig1.png) 
