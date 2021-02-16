@@ -1,9 +1,8 @@
 # World_Weather_Analysis
-Python project using api's to analyze best weather patterns and cities with the best weather.
+Python project using api's to analyze best weather patterns and cities with the best weather.  
 
 ## Project Overview 
-A City School disrict would like to analyze grades for dishonesty reported at a particular high school.  The lead data scientist is tasked with performing some data mangering to remove the 9th grade reading and math scores to analyze the overall picture of testing.  The anlysis consist of the tasks below
-
+This project was to create an api to ask for a range in temperature and create a vacation weather map and travel itineray.
 
 
 ## Resources 
@@ -13,20 +12,23 @@ A City School disrict would like to analyze grades for dishonesty reported at a 
 ## Results: 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/analysis/WeatherPy_vacation_map.png)
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig1.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig1.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig2.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig2.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig3.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig3.png) 
 
 
-![alt text](https://github.com/JoePedroza/School_District_Analysis/blob/main/weather_data/Fig4.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig4.png) 
 
 ## Summary: 
+ I was not able to finish this project.
+
+
  
 
