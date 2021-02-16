@@ -18,7 +18,7 @@ Python project using api's to analyze best weather patterns and cities with the 
 ![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig1.png) 
 
 
-![alt text](https://github.com/JoePedroza/World_Weather_Analysiss/blob/main/weather_data/Fig2.png) 
+![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig2.png) 
 
 
 ![alt text](https://github.com/JoePedroza/World_Weather_Analysis/blob/main/weather_data/Fig3.png) 
