@@ -2,11 +2,8 @@
 Python project using api's to analyze best weather patterns and cities with the best weather.  
 
 ## Project Overview 
-<<<<<<< HEAD
-This project was to create an api to ask for a range in temperature and create a vacation weather map and travel itineray.
-=======
 
->>>>>>> 0925439deafd51dced589645ed3365f9cbfed228
+This project was to create an api to ask for a range in temperature and create a vacation weather map and travel itineray.
 
 
 ## Resources 
